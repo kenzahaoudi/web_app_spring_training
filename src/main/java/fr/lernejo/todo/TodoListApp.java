@@ -9,5 +9,3 @@ public class TodoListApp {
         SpringApplication.run(TodoListApp.class, args);
     }
 }
-
-
